@@ -1,9 +1,9 @@
-def add(one,two)
+def sum(one,two)
 
 	one+two
 
 end
 
-a= add(5,10)
+a= sum(5,10)
 
 p a
